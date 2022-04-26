@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\HP\source\repos\rugivo\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.pdb
